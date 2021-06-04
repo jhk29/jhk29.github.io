@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.caa3f588.chunk.css",
+    "main.css": "/static/css/main.60102520.chunk.css",
     "main.js": "/static/js/main.36028448.chunk.js",
     "main.js.map": "/static/js/main.36028448.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d347138.js",
@@ -10,14 +10,14 @@
     "static/js/3.5b9818f6.chunk.js": "/static/js/3.5b9818f6.chunk.js",
     "static/js/3.5b9818f6.chunk.js.map": "/static/js/3.5b9818f6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.caa3f588.chunk.css.map": "/static/css/main.caa3f588.chunk.css.map",
+    "static/css/main.60102520.chunk.css.map": "/static/css/main.60102520.chunk.css.map",
     "static/js/2.978ed1eb.chunk.js.LICENSE.txt": "/static/js/2.978ed1eb.chunk.js.LICENSE.txt",
     "static/media/cbr_award.6fe6dbd2.pdf": "/static/media/cbr_award.6fe6dbd2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.8d347138.js",
     "static/js/2.978ed1eb.chunk.js",
-    "static/css/main.caa3f588.chunk.css",
+    "static/css/main.60102520.chunk.css",
     "static/js/main.36028448.chunk.js"
   ]
 }
